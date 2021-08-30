@@ -27,7 +27,7 @@ The application should show a list of all active job openings with search/filter
 4. Apply button - navigate to the application form - url of this will be provided in the API response.
 
 ### Details
-![List Page](/assets/react-1-details.png)
+![Details Page](/assets/react-1-details.png)
 1. Implement details page as per the mockup above.
 2. Apply button - navigate to the application form - url of this will be provided in the API response.
 3. Other job openings - Show a list of job openings from the department of the current job opening.
