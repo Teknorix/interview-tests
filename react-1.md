@@ -42,4 +42,4 @@ The application should show a list of all active job openings with search/filter
 > https://apidocs.jobsoid.com/
 
 ## Base API URL
-> https://demo.jobsoid.com/
+> https://teknorix.jobsoid.com/
